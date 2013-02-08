@@ -1,2 +1,3 @@
 import sys
-sys.exit(1)
+print "G'day govna"
+sys.exit(0)
